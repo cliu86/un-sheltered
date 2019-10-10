@@ -12,10 +12,3 @@ Run `yarn build` to build a production build. It will be put in the `dist` folde
 ### What is this repository for? ###
 
 * Microsite SPA designed to showcase Unsheltered video series by NuPath Inc.
-
-### Contributers ###
-
-Brian Hanna, Chang Liu, Sarah Silvia
-
-Stirling Technologies
-https://stboston.com
